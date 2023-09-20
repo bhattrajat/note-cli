@@ -1,17 +1,18 @@
 {
-  "name": "cli-app",
+  "name": "@bhattrajat/notes-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple note taking app using cli",
   "type": "module",
   "main": "index.js",
-  "bin": {
-    "note": "./index.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhattrajat/note-cli.git"
+  },
+  "author": "Rajat Bhatt",
   "license": "ISC",
   "dependencies": {
     "sqlite3": "^5.1.6",
