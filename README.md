@@ -3,6 +3,7 @@ A simple note-cli app created with Node.js
 
 ## Installation
 - Clone this repo
+- Run `npm install`
 - Use `npm link` to add a symlink (I will work on creating this a globally installable npm package in the future)
 
 ## Usage
