@@ -5,6 +5,7 @@ import { hideBin } from 'yargs/helpers';
 import { addNote, deleteNote, filterNotes, listNotes } from './utils/notes.js';
 
 yargs(hideBin(process.argv))
+  .scriptName('note')
   .command(
     'add <content>',
     'store note',

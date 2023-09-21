@@ -1,6 +1,6 @@
 {
   "name": "@bhattrajat/notes-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple note taking app using cli",
   "type": "module",
   "main": "index.js",
